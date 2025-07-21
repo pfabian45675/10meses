@@ -246,28 +246,6 @@ border-radius: 150%;
 }
 
 
-
-/* Imagen responsiva */
-.mensaje-final img {
-  max-width: 90%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-/* Blog responsivo */
-.blog-mensaje {
-  margin: 20px;
-  font-size: 5vw;
-  padding: 15px;
-}
-
-/* Mensaje final más adaptable */
-.mensaje-final {
-  padding: 10vh 5vw;
-  font-size: 4.5vw;
-}
-
 /* 🌟 Estilos para pantallas móviles tipo iPhone 11 y Redmi 9C */
 @media (max-width: 600px) {
   .persona-con-caja {
